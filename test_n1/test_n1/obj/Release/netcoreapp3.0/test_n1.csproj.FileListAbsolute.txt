@@ -1,0 +1,11 @@
+C:\Users\s002499040\Source\Repos\ForLinux\test_n1\test_n1\bin\Release\netcoreapp3.0\test_n1.exe
+C:\Users\s002499040\Source\Repos\ForLinux\test_n1\test_n1\bin\Release\netcoreapp3.0\test_n1.deps.json
+C:\Users\s002499040\Source\Repos\ForLinux\test_n1\test_n1\bin\Release\netcoreapp3.0\test_n1.runtimeconfig.json
+C:\Users\s002499040\Source\Repos\ForLinux\test_n1\test_n1\bin\Release\netcoreapp3.0\test_n1.runtimeconfig.dev.json
+C:\Users\s002499040\Source\Repos\ForLinux\test_n1\test_n1\bin\Release\netcoreapp3.0\test_n1.dll
+C:\Users\s002499040\Source\Repos\ForLinux\test_n1\test_n1\bin\Release\netcoreapp3.0\test_n1.pdb
+C:\Users\s002499040\Source\Repos\ForLinux\test_n1\test_n1\obj\Release\netcoreapp3.0\test_n1.csprojAssemblyReference.cache
+C:\Users\s002499040\Source\Repos\ForLinux\test_n1\test_n1\obj\Release\netcoreapp3.0\test_n1.AssemblyInfoInputs.cache
+C:\Users\s002499040\Source\Repos\ForLinux\test_n1\test_n1\obj\Release\netcoreapp3.0\test_n1.AssemblyInfo.cs
+C:\Users\s002499040\Source\Repos\ForLinux\test_n1\test_n1\obj\Release\netcoreapp3.0\test_n1.dll
+C:\Users\s002499040\Source\Repos\ForLinux\test_n1\test_n1\obj\Release\netcoreapp3.0\test_n1.pdb
